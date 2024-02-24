@@ -1,5 +1,5 @@
 <script>
-import axios from 'axios';
+import axios from 'axios'
 import { resolveTransitionHooks } from 'vue'
 
 export default {
@@ -100,9 +100,6 @@ export default {
     border-radius: 50px;
     padding: 20px;
     background: #1f0f24;
-    /* background: linear-gradient(160deg, rgb(9, 98, 121) 58%,rgb(2, 0, 36) 86%); */
-    /* background: linear-gradient(158.83deg, rgb(240, 178, 17) 53.483%,rgb(9, 98, 121) 93.061%); */
-    /* background: linear-gradient(153.77deg, rgb(126, 139, 69) 54.119%,rgb(9, 98, 121) 93.328%,rgb(9, 98, 121) 97.941%); */
     text-align: center;
     color: #fff;
 }
